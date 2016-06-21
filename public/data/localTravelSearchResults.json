@@ -1,0 +1,37 @@
+[
+{
+  "image":"public/assets/images/dzire.PNG",
+  "companyName":"Ola",
+  "Name":"Dzire, Fusion",
+  "Capacity":"4 + Driving Seat",
+  "price":"225"
+  },
+  {
+  "image":"public/assets/images/innova.PNG",
+  "companyName":"Ola",
+  "Name":"Innova, Xylo",
+  "Capacity":"6 + Driving Seat",
+  "price":"350"
+  },
+  {
+  "image":"public/assets/images/corolla.PNG",
+  "companyName":"MegaCabs",
+  "Name":"Corolla, Elantra Cruze",
+  "Capacity":"4 + Driving Seat",
+  "price":"450"
+  },
+  {
+  "image":"public/assets/images/mercedesC.PNG",
+  "companyName":"Uber",
+  "Name":"Mercddes-C",
+  "Capacity":"4 + Driving Seat",
+  "price":"600"
+  },
+  {
+  "image":"public/assets/images/mercdesE.PNG",
+  "companyName":"MeruCabs",
+  "Name":"Mercddes-E Series",
+  "Capacity":"4 + Driving Seat",
+  "price":"1000"
+  }
+]

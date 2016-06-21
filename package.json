@@ -1,0 +1,19 @@
+{
+  "name": "heisenbergui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshaybansal/HeisenbergUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshaybansal/HeisenbergUI/issues"
+  },
+  "homepage": "https://github.com/lakshaybansal/HeisenbergUI#readme"
+}
